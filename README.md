@@ -9,6 +9,7 @@ and CSS before beginning this class.
 ### Codelabs
 * [PWA lab notes @ gitbook](https://www.gitbook.com/book/google-developer-training/progressive-web-apps-ilt-codelabs/details)
 * [PWA lab repository @ github](https://github.com/sarahec/pwa-training-labs)
+* *NEW* [e-commerce lab preview](https://github.com/sarahec/ecommerce-lab-preview)
 
 ### Textbook
 * [PWA concepts @ gitbook](https://www.gitbook.com/book/google-developer-training/progressive-web-apps-ilt-concepts/details)
